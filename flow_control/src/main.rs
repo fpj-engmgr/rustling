@@ -1,3 +1,8 @@
 fn main() {
-    println!("Hello, world!");
+    let mut count: i16 = 0;
+
+    loop {
+        count += 1;
+        println!("count is {}", count);
+    }
 }
