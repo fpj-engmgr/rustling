@@ -4,7 +4,7 @@ fn main() {
    let numargs = env::args().len();
    if numargs < 3 {
     println!("Error: insufficient number of arguments {} Min = 3", numargs);
-    return;
+        return;
    }
    for (index, argument) in env::args().enumerate() {
         println!("Argument {} is {}", index, argument);
