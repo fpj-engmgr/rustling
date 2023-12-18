@@ -2,7 +2,7 @@
 enum Location {
     Unknown,
     Anonymous,
-    Known(f64, f64)
+    Known(f64, f64) // latitude, longitude
 }
 
 impl Location {
