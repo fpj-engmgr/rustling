@@ -1,6 +1,4 @@
 
-// Move code below here into a module named "shapes"
-    
 pub struct Rectangle {
     width: f64,
     height: f64
