@@ -1,0 +1,1 @@
+/Users/fpj/Development/rust/rustling/ch13/io-project/target/debug/io-project: /Users/fpj/Development/rust/rustling/ch13/io-project/src/lib.rs /Users/fpj/Development/rust/rustling/ch13/io-project/src/main.rs
